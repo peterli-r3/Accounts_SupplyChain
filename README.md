@@ -19,7 +19,7 @@ Run the project
 ```
 Now, you should have four Corda terminals opened automatically.
 
-# Node Shell Instructions (Part 1) - Creating & Sharing Accounts
+# Shell Instructions (Part 1) - Creating & Sharing Accounts
 Go to the Buyer's node terminal and paste in the following code: (You can select all 7 lines and copy to the terminal all at once)
 ```
 flow start CreateNewAccount acctName: BuyerProcurement
@@ -49,7 +49,7 @@ This is creating 3 accounts under Seller's node and sharing with their specific 
 ```
 run vaultQuery contractStateType: com.r3.corda.lib.accounts.contracts.states.AccountInfo
 ```
-# Node Shell Instructions (Part 2) - Executing Business Flows
+# Shell Instructions (Part 2) - Executing Business Flows
 ## Step 1: Seller's sales team send inovice of $500 to Buyer's procurement team
 navigate to Seller's node terminal and run
 ```
