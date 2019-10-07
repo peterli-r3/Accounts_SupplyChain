@@ -4,9 +4,10 @@ For More information regarding the Accounts Library, please read at: a like
 
 This sample describes a mock/simple supply chain business flow.
 
-A chart here
-
-From the above chart, you can see the flow is going back and forth between different parties'accounts. Please follow the instruction below to experience the Accounts library. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/peterli-r3/Accounts_SupplyChain/master/Business%20Flow.png" alt="Corda" width="500">
+</p>
+From the above chart, you can see the flow is going back and forth between different parties' accounts. Please follow the instruction below to experience the Accounts library. 
 
 # Setting up
 Go into the project directory and build the project
